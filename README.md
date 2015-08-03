@@ -12,7 +12,7 @@ Lego JPEG to LXFML convertor for Lego Digital Designer
 * Upload to Gist via Gist gem
 * Spit out URL link
 
-# Usage
+## Usage
 
 ### Create container
 
