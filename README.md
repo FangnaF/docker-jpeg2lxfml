@@ -7,8 +7,8 @@ Lego JPEG to LXFML convertor for Lego Digital Designer
 
 ### Create custom image from CentOS 6.6 image
 
-* Copied Jpeg2Lxfml https://gist.github.com/spudtrooper/4200828 and threw in Docker
-* Installed Wget Java, Ruby, Rubygems, and Gist gem
+* Copy Jpeg2Lxfml https://gist.github.com/spudtrooper/4200828 and throw in Docker image
+* Install Wget Java, Ruby, Rubygems, and Gist gem
 * Pull image off internets
 * Install java class and run
 * Upload to Gist via Gist gem
