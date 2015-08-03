@@ -7,11 +7,14 @@ Copied Jpeg2Lxfml https://gist.github.com/spudtrooper/4200828 and threw in Docke
 
 # Usage
 
-Create container
-docker build -t centos/jpeg2lxfml .
+### Create container
 
-Run container
-docker run -d -e "IMAGE_URL=<your_jpeg_url>" centos/jpeg2lxfml
+`docker build -t centos/jpeg2lxfml .`
 
-View output
-docker logs <container_number>
+### Run container
+
+`docker run -d -e "IMAGE_URL=<your_jpeg_url>" centos/jpeg2lxfml`
+
+### View output
+
+`docker logs <container_number>`
