@@ -1,8 +1,6 @@
 # docker-jpeg2lxfml
 Lego JPEG to LXFML convertor for Lego Digital Designer
 
-# Information
-
 ## What does this do?..
 
 ### Create custom image from CentOS 6.6 image
